@@ -1,0 +1,28 @@
+{
+    "name": "musicapp2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/haritdheer/musicapp.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://haritdheer/musicapp/issues"
+    },
+    "homepage": "https://github.com/haritdheer/musicapp#readme",
+    "dependencies": {
+      "express": "^4.17.1",
+      "express-session": "^1.16.2",
+      "hbs": "^4.0.4",
+      "mongodb": "^3.3.2",
+      "spotify-web-api-node": "^4.0.0"
+    }
+  }
+  
